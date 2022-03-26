@@ -1,1 +1,0 @@
-# abapTools.org
